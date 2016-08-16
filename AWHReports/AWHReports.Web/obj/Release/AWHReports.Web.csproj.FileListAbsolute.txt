@@ -1,0 +1,15 @@
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\obj\Release\AWHReports.Web.csprojResolveAssemblyReference.cache
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\AWHReports.Web.dll.config
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\AWHReports.Web.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\AWHReports.Web.pdb
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\AWHReports.Infrastructure.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\AWHReports.Service.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\EasyUIJsonParser.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\SqlServerDataAdapter.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\AWHReports.Infrastructure.pdb
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\AWHReports.Service.pdb
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\obj\Release\AWHReports.Web.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\obj\Release\AWHReports.Web.pdb
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\WebStyleBaseForEnergy.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\mDbDataAdaper.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Web\bin\InternalMemeryRestore.dll

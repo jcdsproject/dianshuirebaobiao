@@ -1,0 +1,5 @@
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Infrastructure\bin\Release\AWHReports.Infrastructure.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Infrastructure\bin\Release\AWHReports.Infrastructure.pdb
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Infrastructure\obj\Release\AWHReports.Infrastructure.csprojResolveAssemblyReference.cache
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Infrastructure\obj\Release\AWHReports.Infrastructure.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Infrastructure\obj\Release\AWHReports.Infrastructure.pdb

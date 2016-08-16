@@ -1,0 +1,9 @@
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\bin\Debug\AWHReports.Service.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\bin\Debug\AWHReports.Service.pdb
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\bin\Debug\AWHReports.Infrastructure.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\bin\Debug\EasyUIJsonParser.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\bin\Debug\SqlServerDataAdapter.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\bin\Debug\AWHReports.Infrastructure.pdb
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\obj\Debug\AWHReports.Service.csprojResolveAssemblyReference.cache
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\obj\Debug\AWHReports.Service.dll
+D:\GitProjectProgram\Project_JCDS\dianshuirebaobiao\AWHReports\AWHReports.Service\obj\Debug\AWHReports.Service.pdb
